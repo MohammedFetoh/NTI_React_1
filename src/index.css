@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body {
+  font-family: cursive;
+}
+.services {
+  background-image:
+    url(../img/Path\ 62.png), url(../img/i-love-my-job-so-much_329181-2178.png);
+}
